@@ -27,7 +27,8 @@ namespace PersonalInformationFinder
 
         private void OpenClick(object sender, RoutedEventArgs e)
         {
-
+           folderbr
+           folderOpen 
         }
 
         private void SearchClick(object sender, RoutedEventArgs e)
